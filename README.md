@@ -13,7 +13,7 @@ ___
 
 1. **Teaching of the Day:** Generate a teaching for the day based on relevant events and current global scenarios.
 2. **Sutta Search:** Search from a wide range of Suttas sourced from [dhammatalks.org](https://dhammatalks.org), [Access to Insight](https://www.accesstoinsight.org/index-sutta.html) and [Sutta Central](https://suttacentral.net).
-3. **Insight Library:** Access insights from renowned and credible teachers like Bhante Gunaratana. Daniel Ingram, Thānissaro Bhikkhu, and Shinzen Young.
+3. **Insight Library:** Access insights from renowned and credible teachers like Bhante Gunaratana, Daniel Ingram, Thānissaro Bhikkhu, and Shinzen Young.
 4. **Metta Musings:** Generate your own Metta (Loving-friendliness) verses with simple natural language prompts.
 5. **Meditation Report Analyzer:** Analyze your Meditation reports and gain insights into your practice with the power of AI.  
 
