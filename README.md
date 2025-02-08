@@ -59,4 +59,4 @@ Please read the [Terms of Use](./TERMS.md) carefully and commit to using this so
 
 ## Contact
 
-In case of queries, send me an email at [contact.adityapatange@gmail.com][mailto:contact.adityapatange@gmail.com].
+In case of queries, send me an email at [contact.adityapatange@gmail.com](mailto:contact.adityapatange@gmail.com).
