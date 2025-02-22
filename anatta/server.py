@@ -1,6 +1,9 @@
 import sys
-from .printer import Printer as printer
+from .core.printer import Printer as printer
 from .framework import get_server, init_server
+from dotenv import load_dotenv
+
+load_dotenv(dotenv_path=".env", override=True)
 
 app = get_server()
 

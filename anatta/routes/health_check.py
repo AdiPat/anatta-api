@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from .models import HealthCheckResponse
+from anatta.models import HealthCheckResponse
 
 health_check_router = APIRouter()
 

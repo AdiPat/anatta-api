@@ -18,4 +18,4 @@ else
 fi
 
 # Start the FastAPI server
-python -m fastapi dev core/server.py
+python -m fastapi dev anatta/server.py
